@@ -1,0 +1,1 @@
+This project showcases the python scripts I have written to practice automation with python.
